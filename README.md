@@ -21,7 +21,7 @@ const aboutMe = {
       others: ["Arduino"]
    },
    currentOccupation: ["last months student, web development full track in Ironhack Bootcamp, now open for job opportunities."],
-   challenge: "Never stop learning.",
+   challenge: ["Never stop learning."]
 };
 ```
 
