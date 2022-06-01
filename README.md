@@ -24,7 +24,7 @@ const aboutMe = {
    challenge: ["Never stop learning."]
 };
 ```
-
+<img src="https://www.codewars.com/users/NandoTen/badges/large" alt="Codewars"/>
 <!--
 **NandoTen/NandoTen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
